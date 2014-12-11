@@ -1,0 +1,44 @@
+#header {
+	text-align: center;
+}
+.nice
+{
+	width: 150px;
+	height:150px;
+}
+.nice:hover{
+	width:250px;
+	height:250px;
+	transition: width 1s , height 1s ;
+
+}
+
+body {
+
+	background-image: url('http://images.kaneva.com/filestore1/2310101/2907551/backgroundUwall.jpg');
+}
+h1{
+	color: orange;
+	font-size: 80px;
+}
+
+
+#hello_message {
+	color: blue;
+}
+
+#content {
+	text-align: center;
+	width: 40%;
+	margin: auto;
+
+	/* add a nice frame for your content */
+	
+	border: 1px solid gray;
+}
+
+#footer {
+	text-align: center;
+}
+
+
